@@ -1,0 +1,2 @@
+My test project is about getting comfortable with Git.
+I think i am making good progress.
